@@ -1,7 +1,7 @@
 {
-  "name": "@aidenvigue/vite-c",
+  "name": "vite-plugin-c",
   "version": "0.1.0",
-  "git-repository": "https://github.com/acvigue/vite-c",
+  "git-repository": "https://github.com/acvigue/vite-plugin-c",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
